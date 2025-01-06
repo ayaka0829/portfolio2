@@ -205,7 +205,7 @@ li {
 
 .skill-item {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   width: 48%;
   margin-bottom: 50px;
