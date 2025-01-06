@@ -201,6 +201,7 @@ li {
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: -50px;
+  text-align: center;
 }
 
 .skill-item {
@@ -215,10 +216,12 @@ li {
   width: 60px;
   height: auto;
   margin-right: 20px;
+  margin-left: 40%;
 }
 
 .skill-body {
   flex: 1;
+  text-align: left;
 }
 
 .skill-name {
