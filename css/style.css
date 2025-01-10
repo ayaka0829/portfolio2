@@ -75,7 +75,7 @@ li {
 }
 
 .header.active {
-  background-color: #737d6d;
+  background-color: #8e8e8e;
 }
 
 .header-inner {
@@ -269,13 +269,13 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #737d6d;
+  background-color: #8e8e8e;
 }
 
 .copyright {
   font-size: 10px;
   text-align: center;
-  color: #a3bb95;
+  color: white;
 }
 
 /*--------------------------------
